@@ -1,3 +1,4 @@
+PERSONAL DATA HACKATHON
 Devices & apps are designed to capture and collect as much personal information as possible and we are all used to accept/consent without knowing what data is collected, what it is used for, whether it is sold to third parties or not, etc. 
 
 The aim of the Personal Data Hackathon is to pave the way for individuals to control, manage and -if they wish- directly monetise their personal data.
@@ -6,54 +7,40 @@ To do so, we have to solve three problems:
 1.	To access our own personal data that is stored or managed in our Devices & apps.
 2.	To share only the data we want to share with whom we want to share.
 3.	To set the conditions under which the data will be shared (purpose, for how long, etc).
+
+STAGES
 These three problems will be addressed in the following stages: 
 Within the scope of this initiative the necessary steps are: 
-
 a) To enable individuals an easy & clear access to their own personal data in their devices, and a streamlined process to structure these, so as to enable an easy decision of what to safeguard and what to share. 
-
 b) To shape and package personal data ready to be shared with vendors delivering a reliable, consistent set of zero party data.
- 
 c) To define the contract for data sharing so as to maximize the protection of the individual rights and simultaneously enable a streamlined data transaction process. 
+
+HACKATHON SEQUENCIAL STRUCTURE
 Personal Data Hackathon is intended to be structured in 3 different events in succession: 
 
 1.- Personal Data Hackathon Devs Edition for Software Developers 
 Its goal is to create app to enable individuals to locate and structure   their personal data on their devices and to streamline their management. 
+Bases: Oct 1st 2021; Final:  Nov. 26th-28st 2021
 
 2.- Personal Data Hackathon Vendors Edition for Marketers & Advertisers
-
 Based on the solution of the previous, to prompt vendors to shape the kind of data they really want from their customers and streamline the data exchange process 
+Bases: Feb 1st 2022;  Final:  March 24th-26th 2022
 
- 3.- Personal Data Hackathon DPOs Edition for Data Protection Experts
+3.- Personal Data Hackathon DPOs Edition for Data Protection Experts
 Based on the conclusions of the previous, to streamline  the cession of data agreements under the GDPR frame, to maximize the protection of individuals and simultaneously enhance and protect the benefits that such data collection provides to companies. 
-1.- Personal Data Hackathon Devs Edition for Sotware Developers
- 
+Bases: April 19th 2022; Final:  May. 26th-28th 2022
+
+DESCRIPTION - PERSONAL DATA HACKATHON DEVs EDITION FOR SOFTWARE DEVELOPERS
 Its goal is to create an app to enable individuals to locate and structure their personal data on their devices and to streamline their management.
- 
 To this end, the PDH aims to directly develop open source apps and revamp the existing set of apps & probes developed within the framework of Funf Open Sensing. 
 
-The Funf Open Sensing Framework is an extensible sensing and data processing framework for mobile devices, originally developed at the MIT Media Lab as part of the Investigating and shaping social mechanisms in the real world study 1. Its core concept is to provide a set of reusable, open source functionalities that enable the collection, uploading, and configuration of a wide range of data types and signals accessible via mobile phones. A full description of the project can be found in funf.org as well as at https://github.com/funf-org.
- 
+The Funf Open Sensing Framework is an extensible sensing and data processing framework for mobile devices, originally developed at the MIT Media Lab as part of the Investigating and shaping social mechanisms in the real world study (*). Its core concept is to provide a set of reusable, open source functionalities that enable the collection, uploading, and configuration of a wide range of data types and signals accessible via mobile phones. A full description of the project can be found in funf.org as well as at https://github.com/funf-org.
 More than 30 data probes have been developed including: GPS, Location, WLAN, Accelerometer, Bluetooth, Cell tower ID, Call log, SMS log, Browser history, Contacts, Running apps, Installed apps, Screen on/off status, Battery status, etc. The probes were bundled into the "Funf-in-a-Box" project, an app generator tool for creating mobile sensing android apps. http://inabox.funf.org/. Finally, the project included data analysis and visualisation scripts that provided heat maps of usage, date and time.
- 
 The Funf project became part of behavio, (http://www.behav.io/), eventually entering Google's orbit.  
-
 The project was initially intended as a tool to investigate the interactions between technology and social mechanisms. However, privacy concerns and the fact that it would enable any third party to capture and process personal data resulted in the project being discontinued. 
-
 Open Source Funf.org is still available and Funf 0.4. was last updated in 2016. 
 
-As stated, the objective of the Personal Data Hackathon is to empower individuals to directly manage and monetise their personal data.  
-
+As stated, the objective of the Personal Data Hackathon is to empower individuals to directly manage and monetise their personal data. 
 The aim is therefore to generate an app based on existing data probes (developed under Funf.org or otherwise) that makes the data stored in the device available to its user and ready to be structured according to established patterns, so that a clear categorisation can be made for the user to decide what data to share with whom.
  
-1 Nadav Aharony, Wei Pan, Cory Ip, Inas Khayal, Alex Pentland, Social fMRI: Investigating and shaping social mechanisms in the real world, Pervasive and Mobile Computing, 2011, ISSN 1574-1192, 10.1016/j.pmcj.2011.09.004. 
-1.- Personal Data Hackathon Devs Edition
-Bases: Oct 1st 2021
-Final:  Nov. 26th-28st 2021
-
-2.- Personal Data Hackathon Vendor Edition 
-Bases: Feb 1st 2022
-Final:  March 24th-26th 2022
-
-3.- Personal Data Hackathon DPOs Edition 
-Bases: April 19th 2022
-Final:  May. 26th-28th 2022
+(*)Nadav Aharony, Wei Pan, Cory Ip, Inas Khayal, Alex Pentland, Social fMRI: Investigating and shaping social mechanisms in the real world, Pervasive and Mobile Computing, 2011, ISSN 1574-1192, 10.1016/j.pmcj.2011.09.004. 
